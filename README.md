@@ -20,4 +20,4 @@ Este es un programa en JavaScript para realizar un sorteo de **Amigo Secreto**. 
 
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/amigo-secreto.git
+   git clone https://github.com/Santisgar/Challenge-Amigo-Secreto.git
